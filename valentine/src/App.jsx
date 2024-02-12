@@ -32,7 +32,7 @@ function App() {
         <>
           <img
             alt="bears kissing"
-            src=""
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eBYynT_gghHTj2kbyGTpxnmNloadT7uU8w&usqp=CAU"
           />
           <div className="text">Yayyyyy!!!!</div>
         </>
@@ -40,7 +40,7 @@ function App() {
         <>
           <img
             alt="bear with hearts"
-            src=""
+            src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQck6dDM36K_O2-ZRA0rdYKkZaYBVkOWNJzqeel3UXbWsmk3FW_MbY8hepx7Xh-PqeYk0&usqp=CAU"
           />
           
           <div>Will you be my valentine?</div>
