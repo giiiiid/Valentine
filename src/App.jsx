@@ -9,7 +9,10 @@ const phrases = [
   "Pookie please",
   "Don't do this to me",
   "I'm gonna cry...😭😭😭😭",
-  "You're breaking my heart"
+  "You're breaking my heart",
+  "You're breaking my heart!",
+  "You're breaking my heart!!",
+  "You're breaking my heart!!!"
 ];
 
 
