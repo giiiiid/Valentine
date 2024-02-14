@@ -38,7 +38,6 @@ function App() {
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0eBYynT_gghHTj2kbyGTpxnmNloadT7uU8w&usqp=CAU"
           />
           <div className="text">Yayyyyy!!!!</div>
-          console.log("Yes")
         </>
       ) : (
         <>
